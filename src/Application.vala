@@ -19,12 +19,7 @@ public class MyApp : Gtk.Application {
         
         var header = new Gtk.Label ("With this app you cann calculate board and sail size based on your weight and wind contitions");
         
-        var calc = new Gtk.Label ("Calculate");
-        var forecast = new Gtk.Label ("Forecast");
-        
         main_window.add (header);
-        main_window.add (calc);
-        main_window.add (forecast);
         main_window.show_all ();
     }
     public static int main (string[] args) {
