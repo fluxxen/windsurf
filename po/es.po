@@ -1,0 +1,40 @@
+# Spanish translations for com.github.fluxxen.windsurf package.
+# Copyright (C) 2022 THE com.github.fluxxen.windsurf'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.fluxxen.windsurf package.
+# Automatically generated, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.fluxxen.windsurf\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-05 10:20+0200\n"
+"PO-Revision-Date: 2022-05-05 10:20+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/Application.vala:20
+msgid ""
+"With this app you cann calculate board and sail size based on your weight "
+"and wind conditions"
+msgstr ""
+
+#: data/windsurf.desktop.in:6 data/windsurf.metainfo.xml.in:5
+msgid "Windsurf"
+msgstr ""
+
+#: data/windsurf.desktop.in:7 data/windsurf.metainfo.xml.in:6
+msgid "Just a app for learning vala."
+msgstr ""
+
+#: data/windsurf.desktop.in:10
+msgid "com.github.fluxxen.windsurf"
+msgstr ""
+
+#: data/windsurf.metainfo.xml.in:18
+msgid "Just testing and learning vala. Nothing special hidden in this app."
+msgstr ""

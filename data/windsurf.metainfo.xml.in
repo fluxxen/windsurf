@@ -2,7 +2,7 @@
 <component type="desktop-application">
   <id>io.github.fluxxen.windsurf</id>
   
-  <name>hello-again</name>
+  <name>Windsurf</name>
   <summary>Just a app for learning vala.</summary>
   
   <metadata_license>CC-BY-SA-4.0</metadata_license>
