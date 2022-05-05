@@ -14,7 +14,7 @@ public class MyApp : Gtk.Application {
         var main_window = new Gtk.ApplicationWindow (this) {
             default_height = 500,
             default_width = 500,
-            title = "Weather Forecast - Calculate - Hang Loose"
+            title = _("Weather Forecast - Calculate - Hang Loose")
         };
         
         var header = new Gtk.Label (_("With this app you cann calculate board and sail size based on your weight and wind conditions"));
