@@ -17,7 +17,7 @@ public class MyApp : Gtk.Application {
             title = _("Weather Forecast - Calculate - Hang Loose")
         };
         
-        var header = new Gtk.Label (_("With this app you cann calculate board and sail size based on your weight and wind conditions"));
+        var header = new Gtk.Label (_("Here we go! Next steps: grid -> input forms -> calculate"));
         
         main_window.add (header);
         main_window.show_all ();
