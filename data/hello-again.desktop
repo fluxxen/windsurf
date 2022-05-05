@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=windsurf
+Comment=Just a app for learning vala.
+Categories=Development;Amusement;
+
+Icon=com.github.fluxxen.windsurf
+Exec=com.github.fluxxen.windsurf
+Terminal=false

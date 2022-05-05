@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.fluxxen.windsurf</id>
+  
+  <name>hello-again</name>
+  <summary>Just a app for learning vala.</summary>
+  
+  <metadata_license>CC-BY-SA-4.0</metadata_license>
+  <project_license>AGPL-3.0-or-later</project_license>
+  
+  <content_rating type="oars-1.1" />
+
+  <recommends>
+    <display_length compare="ge">500</display_length>
+  </recommends>
+  
+  <description>
+    <p>
+      Just testing and learning vala. Nothing special hidden in this app.
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">io.github.fluxxen.hello_again.desktop</launchable>
+  
+  <custom>
+  <value key="x-appcenter-color-primary">#603461</value>
+  <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+  <value key="x-appcenter-suggested-price">0</value>
+  <value key="x-appcenter-stripe">pk_live_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</value>
+</custom>
+
+</component>
